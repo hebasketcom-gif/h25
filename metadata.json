@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Praveen Pathak - Academic Portfolio",
+  "description": "Academic Portfolio Website for Dr. Praveen Pathak, HOD (History Department), Starex University",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
